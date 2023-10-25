@@ -14,7 +14,7 @@ Before running this application, ensure you have the following:
 
 2. **Open the project in your favorite C# development environment (e.g., Visual Studio or Visual Studio Code).**
 
-3. **Update the following variables in the `Program.cs` file with your own values:**
+3. **Update the following variables in the `leads.cs` file with your own values:**
    - `accessToken`: Replace `"Access Token"` with your Facebook Page Access Token.
    - `pageId`: Replace `"page ID"` with the ID of your Facebook Page.
 
